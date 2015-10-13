@@ -1,0 +1,606 @@
+var r1 = Math.random();
+var r2 = Math.random(); 
+var r3 = Math.random();
+var r4 = Math.random();
+var r5 = Math.random();
+var r6 = Math.random(); 
+var r7 = Math.random();
+var r8 = Math.random();
+var r9 = Math.random();
+var r10 = Math.random();
+var r11 = Math.random();
+var r12 = Math.random();
+var r13 = Math.random();
+var r14 = Math.random();
+var r15 = Math.random();
+var r16 = Math.random();  
+var r17 = Math.random();
+var r18 = Math.random();
+var r19 = Math.random();
+var r20 = Math.random();
+var r21 = Math.random();
+var r22 = Math.random();
+var r23 = Math.random();
+var r24 = Math.random();
+var r25 = Math.random();
+var r26 = Math.random(); 
+var r27 = Math.random();
+var r28 = Math.random();
+var r29 = Math.random();
+var r30 = Math.random();
+var r31 = Math.random();
+var r32 = Math.random();
+var r33 = Math.random();
+var r34 = Math.random();
+var r35 = Math.random();
+var r36 = Math.random();  
+var r37 = Math.random();
+var r38 = Math.random();
+var r39 = Math.random();
+var r40 = Math.random();
+var r41 = Math.random();
+var r42 = Math.random();
+var r43 = Math.random();
+var r44 = Math.random();
+var r45 = Math.random();
+var r46 = Math.random();  
+var r47 = Math.random();
+var r48 = Math.random();
+var r49 = Math.random();
+var r50 = Math.random();
+var r51 = Math.random();
+var r52 = Math.random();
+var r53 = Math.random();
+var r54 = Math.random();
+var r55 = Math.random(); 
+var r56 = Math.random();
+var r57 = Math.random();
+var r58 = Math.random();
+var r59 = Math.random();
+var r60 = Math.random();
+var r61 = Math.random();
+var r62 = Math.random();
+var r63 = Math.random();
+var r64 = Math.random();
+var r65 = Math.random(); 
+var r66 = Math.random();
+var r67 = Math.random();
+var r68 = Math.random();
+var r69 = Math.random();
+var r70 = Math.random();
+var r71 = Math.random();
+var r72 = Math.random();
+var r73 = Math.random();
+var r74 = Math.random();
+var r75 = Math.random();
+var r76 = Math.random(); 
+var r77 = Math.random();
+var r78 = Math.random();
+var r79 = Math.random();
+var r80 = Math.random();
+var r81 = Math.random();
+var r82 = Math.random();
+var r83 = Math.random();
+var r84 = Math.random();
+var r85 = Math.random(); 
+var r86 = Math.random();
+var r87 = Math.random();
+var r88 = Math.random();
+var r89 = Math.random();
+var r90 = Math.random();
+var r91 = Math.random();
+var r92 = Math.random(); 
+var r93 = Math.random();
+var r94 = Math.random();
+var r95 = Math.random();
+var r96 = Math.random();  
+var r97 = Math.random();
+var r98 = Math.random();
+var r99 = Math.random();
+var r100 = Math.random();
+var r101 = Math.random();
+var r102 = Math.random(); 
+var r103 = Math.random();
+var r104 = Math.random();
+var r105 = Math.random();
+var r106 = Math.random(); 
+var r107 = Math.random();
+var r108 = Math.random();
+var r109 = Math.random();
+var r110 = Math.random();
+var r111 = Math.random();
+var r112 = Math.random();
+var r113 = Math.random();
+var r114 = Math.random();
+var r115 = Math.random();
+var r116 = Math.random();  
+var r117 = Math.random();
+var r118 = Math.random();
+var r119 = Math.random();
+var r120 = Math.random();
+var r121 = Math.random();
+var r122 = Math.random();
+var r123 = Math.random();
+var r124 = Math.random();
+var r125 = Math.random();
+var r126 = Math.random(); 
+var r127 = Math.random();
+var r128 = Math.random();
+var r129 = Math.random();
+var r130 = Math.random();
+var r131 = Math.random();
+var r132 = Math.random();
+var r133 = Math.random();
+var r134 = Math.random();
+var r135 = Math.random();
+var r136 = Math.random();  
+var r137 = Math.random();
+var r138 = Math.random();
+var r139 = Math.random();
+var r140 = Math.random();
+var r141 = Math.random();
+var r142 = Math.random();
+var r143 = Math.random();
+var r144 = Math.random();
+var r145 = Math.random();
+var r146 = Math.random(); 
+var r147 = Math.random();
+var r148 = Math.random();
+var r149 = Math.random();
+var r150 = Math.random();
+var r151 = Math.random();
+var r152 = Math.random();
+var r153 = Math.random();
+var r154 = Math.random();
+var r155 = Math.random(); 
+var r156 = Math.random();
+var r157 = Math.random();
+var r158 = Math.random();
+var r159 = Math.random();
+var r160 = Math.random();
+r1;
+r2;
+r3;
+r4;
+r5;
+r6;
+r7;
+r8;
+r9;
+r10;
+r11;
+r12;
+r13;
+r14;
+r15;
+r16;
+r17;
+r18;
+r19;
+r20;
+r21;
+r22;
+r23;
+r24;
+r25;
+r26;
+r27;
+r28;
+r29;
+r30;
+r31;
+r32;
+r33;
+r34;
+r35;
+r36;
+r37;
+r38;
+r39;
+r40;
+r41;
+r42;
+r43;
+r44;
+r45;
+r46;
+r47;
+r48;
+r49;
+r50;
+r51;
+r52;
+r53;
+r54;
+r55;
+r56;
+r57;
+r58;
+r59;
+r60;
+r61;
+r62;
+r63;
+r64;
+r65;
+r66;
+r67;
+r68;
+r69;
+r70;
+r71;
+r72;
+r73;
+r74;
+r75;
+r76;
+r77;
+r78;
+r79;
+r80;
+r81;
+r82;
+r83;
+r84;
+r85;
+r86;
+r87;
+r88;
+r89;
+r90;
+r91;
+r92;
+r93;
+r94;
+r95;
+r96;
+r97;
+r98;
+r99;
+r100;
+r101;
+r102;
+r103;
+r104;
+r105;
+r106;
+r107;
+r108;
+r109;
+r110;
+r111;
+r112;
+r113;
+r114;
+r115;
+r116;
+r117;
+r118;
+r119;
+r120;
+r121;
+r122;
+r123;
+r124;
+r125;
+r126;
+r127;
+r128;
+r129;
+r130;
+r131;
+r132;
+r133;
+r134;
+r135;
+r136;
+r137;
+r138;
+r139;
+r140;
+r141;
+r142;
+r143;
+r144;
+r145;
+r146;
+r147;
+r148;
+r149;
+r150;
+r151;
+r152;
+r153;
+r154;
+r155;
+r156;
+r157;
+r158;
+r159;
+r160;
+
+var p0001 = ["Player 1", 20, 10, 15, 12, 9, 10, 10, 1, 1, 1, 1]
+var p0002 = ["Player 2", 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+var homeTeam = "England " 
+var hRep = 10
+var hGK = p0001
+var hRB = p0001
+var hLB = p0001
+var hSW = p0001   
+var hCB = p0001 
+var hRW = p0001  
+var hLW = p0001
+var hDM = p0001 
+var hAM = p0001
+var hCF = p0001
+var hST = p0001
+var awayTeam = "Scotland "
+var aRep = 10
+var aGK = p0002
+var aRB = p0002
+var aLB = p0002
+var aSW = p0002
+var aCB = p0002
+var aRW = p0002
+var aLW = p0002
+var aDM = p0002
+var aAM = p0002
+var aCF = p0002
+var aST = p0002
+var hGLS = []
+var aGLS = []
+var attendance = hRep * aRep
+
+var hATT = (hRB[1] * 2) + (hRB[2] * 2) + (hRB[3] * 2) + (hLB[1] * 2) + (hLB[2] * 2) + (hLB[3] * 2) + hLB[5] + 
+(hCB[1] * 2) + (hCB[2] * 2) + (hCB[7] * 2) + (hSW[1] * 2) + (hSW[2] * 2) + hSW[7] + (hDM[1] * 2) + hDM[2] + 
+(hAM[1] * 5) + (hAM[2] * 4) + hAM[5] + (hRW[1] * 4) + (hRW[2] * 3) + (hRW[3] * 2) + (hRW[5] * 3) + hRW[6] + 
+(hLW[1] * 6) + (hLW[2] * 4) + (hLW[3] * 2) + (hLW[5] * 3) + hLW[6] + (hCF[1] * 7) + (hCF[2] * 4) + hCF[3] + (hCF[5] * 2) 
++ (hCF[6] * 2) + (hCF[7] * 4) + (hST[1] * 8) + (hST[2] * 6) + hST[3] + (hST[5] * 4) + (hST[6] * 2) + (hST[7] * 3)
+
+var hMID = (hST[2] * 2) + (hST[3] * 3) + (hST[4] * 2) + (hST[5] * 3) + hST[8] + (hCF[2] * 2) + (hCF[3] * 2) + (hCF[4] * 4) 
++ (hCF[5] * 2) + hCF[8] + (hLW[2] * 2) + (hLW[3] * 5) + (hLW[4] * 5) + (hLW[5] * 3) + hLW[8] + hRW[2] + (hRW[3] * 6) + 
+(hRW[4] * 6) + (hRW[5] * 2) + + hRW[6] + hRW[8] + (hDM[3] * 2) + (hDM[4] * 7) + hDM[5] + hDM[6] + (hDM[8] * 2) 
++ (hSW[3] * 2) + (hSW[4] * 2) + hSW[5] + hCB[3] + hCB[4] + hLB[2] + (hLB[3] * 4) + (hLB[4] * 3) + hLB[5] + (hLB[8] * 2) 
++ (hRB[3] * 3) + (hRB[4] * 2) + hRB[5] + hRB[6] + hRB[8] + (hAM[2] * 2) + (hAM[3] * 2) + (hAM[4] * 8) + (hAM[5] * 2) + 
++ hAM[6] + hAM[8]
+
+var hCOU = hST[5] + hST[6] + hST[8] + hST[9] + hST[10] + hCF[5] + hCF[6] + hCF[7] + hCF[8] + (hCF[9] * 2) + hCF[10] + 
+hLW[5] + hLW[7] + hLW[8] + hLW[9] + hRW[5] + hRW[7] + (hRW[8] * 2) + hRW[9] + hAM[5] + hAM[6] + hAM[7] + (hAM[8] * 3)
+ + (hAM[9] * 2) + (hAM[10] * 2) + hDM[5] + (hDM[6] * 3) + hDM[7] + (hDM[8] * 4) + (hDM[9] * 3) + (hDM[10] * 3) 
++ hSW[5] + (hSW[6] * 3) + (hSW[7] * 3) + hSW[8] + (hSW[9] * 6) + (hSW[10] * 3) + hCB[5] + (hCB[6] * 4) + (hCB[7] * 3)
+ + hCB[8] + (hCB[9] * 5) + (hCB[10] * 4) + hLB[5] + hLB[6] + (hLB[7] * 2) + (hLB[8] * 3) + (hLB[9] * 4) + (hLB[10] * 2)
+ + hRB[5] + (hRB[6] * 2) + (hRB[7] * 3) + (hRB[8] * 3) + (hRB[9] * 3) + (hRB[10] * 2) + hLW[10] + hRW[10]
+ 
+var hDEF = hCF[6] + hCF[10] + hLW[8] + hLW[9] + hLW[10] + hRW[7] + hRW[8] + hRW[9] + hRW[10] + 
+hAM[7] + hAM[8] + hAM[9] + hAM[10] + (hDM[6] * 2) + hDM[7] + (hDM[8] * 2) + hDM[9] + (hDM[10] * 3) + (hSW[6] * 4)
+ + (hSW[7] * 3) + (hSW[9] * 2) + (hSW[10] * 4) + (hCB[6] * 4) + (hCB[7] * 3) + hCB[8] + (hCB[9] * 2) + (hCB[10] * 4) 
++ hLB[6] + (hLB[7] * 2) +(hLB[8] * 2) + (hLB[9] * 2) + (hLB[10] * 2) + (hRB[6] * 2) + (hRB[7] * 3) + (hRB[8] * 2) + 
+(hRB[9] * 2) + (hRB[10] * 3) + (hGK[11] * 40)
+
+var aATT = (aRB[1] * 2) + (aRB[2] * 2) + (aRB[3] * 2) + (aLB[1] * 2) + (aLB[2] * 2) + (aLB[3] * 2) + aLB[5] + 
+(aCB[1] * 2) + (aCB[2] * 2) + (aCB[7] * 2) + (aSW[1] * 2) + (aSW[2] * 2) + aSW[7] + (aDM[1] * 2) + aDM[2] + 
+(aAM[1] * 5) + (aAM[2] * 4) + aAM[5] + (aRW[1] * 4) + (aRW[2] * 3) + (aRW[3] * 2) + (aRW[5] * 3) + aRW[6] + 
+(aLW[1] * 6) + (aLW[2] * 4) + (aLW[3] * 2) + (aLW[5] * 3) + aLW[6] + (aCF[1] * 7) + (aCF[2] * 4) + aCF[3] + (aCF[5] * 2) 
++ (aCF[6] * 2) + (aCF[7] * 4) + (aST[1] * 8) + (aST[2] * 6) + aST[3] + (aST[5] * 4) + (aST[6] * 2) + (aST[7] * 3)
+
+var aMID = (aST[2] * 2) + (aST[3] * 3) + (aST[4] * 2) + (aST[5] * 3) + aST[8] + (aCF[2] * 2) + (aCF[3] * 2) + (aCF[4] * 4) 
++ (aCF[5] * 2) + aCF[8] + (aLW[2] * 2) + (aLW[3] * 5) + (aLW[4] * 5) + (aLW[5] * 3) + aLW[8] + aRW[2] + (aRW[3] * 6) + 
+(aRW[4] * 6) + (aRW[5] * 2) + + aRW[6] + aRW[8] + (aDM[3] * 2) + (aDM[4] * 7) + aDM[5] + aDM[6] + (aDM[8] * 2) 
++ (aSW[3] * 2) + (aSW[4] * 2) + aSW[5] + aCB[3] + aCB[4] + aLB[2] + (aLB[3] * 4) + (aLB[4] * 3) + aLB[5] + (aLB[8] * 2) 
++ (aRB[3] * 3) + (aRB[4] * 2) + aRB[5] + aRB[6] + aRB[8] + (aAM[2] * 2) + (aAM[3] * 2) + (aAM[4] * 8) + (aAM[5] * 2) + 
++ aAM[6] + aAM[8]
+
+var aCOU = aST[5] + aST[6] + aST[8] + aST[9] + aST[10] + aCF[5] + aCF[6] + aCF[7] + aCF[8] + (aCF[9] * 2) + aCF[10] + 
+aLW[5] + aLW[7] + aLW[8] + aLW[9] + aRW[5] + aRW[7] + (aRW[8] * 2) + aRW[9] + aAM[5] + aAM[6] + aAM[7] + (aAM[8] * 3)
+ + (aAM[9] * 2) + (aAM[10] * 2) + aDM[5] + (aDM[6] * 3) + aDM[7] + (aDM[8] * 4) + (aDM[9] * 3) + (aDM[10] * 3) 
++ aSW[5] + (aSW[6] * 3) + (aSW[7] * 3) + aSW[8] + (aSW[9] * 6) + (aSW[10] * 3) + aCB[5] + (aCB[6] * 4) + (aCB[7] * 3)
+ + aCB[8] + (aCB[9] * 5) + (aCB[10] * 4) + aLB[5] + aLB[6] + (aLB[7] * 2) + (aLB[8] * 3) + (aLB[9] * 4) + (aLB[10] * 2)
+ + aRB[5] + (aRB[6] * 2) + (aRB[7] * 3) + (aRB[8] * 3) + (aRB[9] * 3) + (aRB[10] * 2) + aLW[10] + aRW[10]
+ 
+var aDEF = aCF[6] + aCF[10] + aLW[8] + aLW[9] + aLW[10] + aRW[7] + aRW[8] + aRW[9] + aRW[10] + 
+aAM[7] + aAM[8] + aAM[9] + aAM[10] + (aDM[6] * 2) + aDM[7] + (aDM[8] * 2) + aDM[9] + (aDM[10] * 3) + (aSW[6] * 4)
+ + (aSW[7] * 3) + (aSW[9] * 2) + (aSW[10] * 4) + (aCB[6] * 4) + (aCB[7] * 3) + aCB[8] + (aCB[9] * 2) + (aCB[10] * 4) 
++ aLB[6] + (aLB[7] * 2) +(aLB[8] * 2) + (aLB[9] * 2) + (aLB[10] * 2) + (aRB[6] * 2) + (aRB[7] * 3) + (aRB[8] * 2) + 
+(aRB[9] * 2) + (aRB[10] * 3) + (aGK[11] * 40)
+
+
+var hA = hATT / (hATT + aDEF)
+var hM = hMID / (hMID + aCOU)
+var aA = aATT / (aATT + hDEF)
+var aM = aMID / (aMID + hCOU)
+
+if (hA > r1 && hA > r2 && hM > r3 && hM > r4) {
+   hGLS.push([+1]);
+};
+if (hA > r5 && hA > r6 && hM > r7 && hM > r8) {
+   hGLS.push([+1]);   
+};
+if (hA > r9 && hA > r10 && hM > r11 && hM > r12) {
+   hGLS.push([+1]);
+};
+if (hA > r13 && hA > r14 && hM > r15 && hM > r16) {
+   hGLS.push([+1]);
+};
+if (hA > r17 && hA > r18 && hM > r19 && hM > r20) {
+   hGLS.push([+1]);
+};
+if (hA > r21 && hA > r22 && hM > r23 && hM > r24) {
+   hGLS.push([+1]);
+};
+if (hA > r25 && hA > r26 && hM > r27 && hM > r28) {
+   hGLS.push([+1]);
+};
+if (hA > r29 && hA > r30 && hM > r31 && hM > r32) {
+   hGLS.push([+1]);
+};
+if (hA > r33 && hA > r34 && hM > r35 && hM > r36) {
+   hGLS.push([+1]);
+};
+if (hA > r37 && hA > r38 && hM > r39 && hM > r40) {
+   hGLS.push([+1]);
+};
+if (hA > r41 && hA > r42 && hM > r43 && hM > r44) {
+   hGLS.push([+1]);
+};
+if (hA > r45 && hA > r46 && hM > r47 && hM > r48) {
+   hGLS.push([+1]);
+};
+if (hA > r49 && hA > r50 && hM > r51 && hM > r52) {
+   hGLS.push([+1]);
+};
+if (hA > r53 && hA > r54 && hM > r55 && hM > r56) {
+   hGLS.push([+1]);
+};
+if (hA > r57 && hA > r58 && hM > r59 && hM > r60) {
+   hGLS.push([+1]);
+};
+if (hA > r61 && hA > r62 && hM > r63 && hM > r64) {
+   hGLS.push([+1]);
+};
+if (hA > r65 && hA > r66 && hM > r67 && hM > r68) {
+   hGLS.push([+1]);
+};
+if (hA > r69 && hA > r70 && hM > r71 && hM > r72) {
+   hGLS.push([+1]);
+};
+if (hA > r73 && hA > r74 && hM > r75 && hM > r76) {
+   hGLS.push([+1]);
+};
+if (hA > r77 && hA > r78 && hM > r79 && hM > r80) {
+   hGLS.push([+1]);
+};
+if (aA > r81 && aA > r82 && aM > r83 && aM > r84) {
+   aGLS.push([+1]);
+};
+if (aA > r85 && aA > r86 && aM > r87 && aM > r88) {
+   aGLS.push([+1]);
+};
+if (aA > r89 && aA > r90 && aM > r91 && aM > r92) {
+   aGLS.push([+1]);
+};
+if (aA > r93 && aA > r94 && aM > r95 && aM > r96) {
+   aGLS.push([+1]);
+};
+if (aA > r97 && aA > r98 && aM > r99 && aM > r100) {
+   aGLS.push([+1]);
+};
+if (aA > r101 && aA > r102 && aM > r103 && aM > r104) {
+   aGLS.push([+1]);
+};
+if (aA > r105 && aA > r106 && aM > r107 && aM > r108) {
+   aGLS.push([+1]);
+};
+if (aA > r109 && aA > r110 && aM > r111 && aM > r112) {
+   aGLS.push([+1]);
+};
+if (aA > r113 && aA > r114 && aM > r115 && aM > r116) {
+   aGLS.push([+1]);
+};
+if (aA > r117 && aA > r118 && aM > r119 && aM > r120) {
+   aGLS.push([+1]);
+};
+if (aA > r121 && aA > r122 && aM > r123 && aM > r124) {
+   aGLS.push([+1]);
+};
+if (aA > r125 && aA > r126 && aM > r127 && aM > r128) {
+   aGLS.push([+1]);
+};
+if (aA > r129 && aA > r130 && aM > r131 && aM > r132) {
+   aGLS.push([+1]);
+};
+if (aA > r133 && aA > r134 && aM > r135 && aM > r136) {
+   aGLS.push([+1]);
+};
+if (aA > r137 && aA > r138 && aM > r139 && aM > r140) {
+   aGLS.push([+1]);
+};
+if (aA > r141 && aA > r142 && aM > r143 && aM > r144) {
+   aGLS.push([+1]);
+};
+if (aA > r145 && aA > r146 && aM > r147 && aM > r148) {
+   aGLS.push([+1]);
+};
+if (aA > r149 && aA > r150 && aM > r151 && aM > r152) {
+   aGLS.push([+1]);
+};
+if (aA > r153 && aA > r154 && aM > r155 && aM > r156) {
+   aGLS.push([+1]);
+};
+if (aA > r157 && aA > r158 && aM > r159 && aM > r160) {
+   aGLS.push([+1]);
+};
+
+var vAST = (aST[1] * 8) + (aST[2] * 8) + (aST[3] * 4) + (aST[4] * 2) + (aST[5] * 8) + (aST[6] * 3) + (aST[7] * 3) + (aST[8] * 2) + aST[9] + aST[10];
+var vACF = (aCF[1] * 7) + (aCF[2] * 6) + (aCF[3] * 3) + (aCF[4] * 4) + (aCF[5] * 5) + (aCF[6] * 4) + (aCF[7] * 5) + (aCF[8] * 2) + (aCF[9] * 2) + (aCF[10] * 2);
+var vALW = (aLW[1] * 6) + (aLW[2] * 6) + (aLW[3] * 7) + (aLW[4] * 5) + (aLW[5] * 7) + aLW[6] + aLW[7] + (aLW[8] * 3) + (aLW[9] * 2) + (aLW[10] * 2);
+var vARW = (aRW[1] * 4) + (aRW[2] * 4) + (aRW[3] * 8) + (aRW[4] * 6) + (aRW[5] * 6) + (aRW[6] * 2) + (aRW[7] * 2) + (aRW[8] * 4) + (aRW[9] * 2) + (aRW[10] * 2);
+var vAAM = (aAM[1] * 5) + (aAM[2] * 6) + (aAM[3] * 2) + (aAM[4] * 8) + (aAM[5] * 4) + (aAM[6] * 2) + (aAM[7] * 2) + (aAM[8] * 5) + (aAM[9] * 3) + (aAM[10] * 3);
+var vADM = (aDM[1] * 2) + aDM[2] + (aDM[3] * 2) + (aDM[4] * 7) + (aDM[5] * 2) + (aDM[6] * 6) + (aDM[7] * 2) + (aDM[8] * 8) + (aDM[9] * 4) + (aDM[10] * 6);
+var vASW = (aSW[1] * 2) + (aSW[2] * 2) + (aSW[3] * 2) + (aSW[4] * 2) + (aSW[5] * 2) + (aSW[6] * 7) + (aSW[7] * 7) + (aSW[8] * 1) + (aSW[9] * 8) + (aSW[10] * 7);
+var vACB = (aCB[1] * 2) + (aCB[2] * 2) + aCB[3] + aCB[4] + aCB[5] + (aCB[6] * 8) + (aCB[7] * 8) + (aCB[8] * 2) + (aCB[9] * 7) + (aCB[10] * 8);
+var vALB = (aLB[1] * 2) + (aLB[2] * 3) + (aLB[3] * 6) + (aLB[4] * 3) + (aLB[5] * 3) + (aLB[6] * 2) + (aLB[7] * 4) + (aLB[8] * 7) + (aLB[9] * 6) + (aLB[10] * 4);
+var vARB = (aRB[1] * 2) + (aRB[2] * 2) + (aRB[3] * 5) + (aRB[4] * 2) + (aRB[5] * 2) + (aRB[6] * 5) + (aRB[7] * 6) + (aRB[8] * 6) + (aRB[9] * 5) + (aRB[10] * 5);
+var vAGK = aGK[11] * 40;
+var vHST = (hST[1] * 8) + (hST[2] * 8) + (hST[3] * 4) + (hST[4] * 2) + (hST[5] * 8) + (hST[6] * 3) + (hST[7] * 3) + (hST[8] * 2) + hST[9] + hST[10];
+var vHCF = (hCF[1] * 7) + (hCF[2] * 6) + (hCF[3] * 3) + (hCF[4] * 4) + (hCF[5] * 5) + (hCF[6] * 4) + (hCF[7] * 5) + (hCF[8] * 2) + (hCF[9] * 2) + (hCF[10] * 2);
+var vHLW = (hLW[1] * 6) + (hLW[2] * 6) + (hLW[3] * 7) + (hLW[4] * 5) + (hLW[5] * 7) + hLW[6] + hLW[7] + (hLW[8] * 3) + (hLW[9] * 2) + (hLW[10] * 2);
+var vHRW = (hRW[1] * 4) + (hRW[2] * 4) + (hRW[3] * 8) + (hRW[4] * 6) + (hRW[5] * 6) + (hRW[6] * 2) + (hRW[7] * 2) + (hRW[8] * 4) + (hRW[9] * 2) + (hRW[10] * 2);
+var vHAM = (hAM[1] * 5) + (hAM[2] * 6) + (hAM[3] * 2) + (hAM[4] * 8) + (hAM[5] * 4) + (hAM[6] * 2) + (hAM[7] * 2) + (hAM[8] * 5) + (hAM[9] * 3) + (hAM[10] * 3);
+var vHDM = (hDM[1] * 2) + hDM[2] + (hDM[3] * 2) + (hDM[4] * 7) + (hDM[5] * 2) + (hDM[6] * 6) + (hDM[7] * 2) + (hDM[8] * 8) + (hDM[9] * 4) + (hDM[10] * 6);
+var vHSW = (hSW[1] * 2) + (hSW[2] * 2) + (hSW[3] * 2) + (hSW[4] * 2) + (hSW[5] * 2) + (hSW[6] * 7) + (hSW[7] * 7) + (hSW[8] * 1) + (hSW[9] * 8) + (hSW[10] * 7);
+var vHCB = (hCB[1] * 2) + (hCB[2] * 2) + hCB[3] + hCB[4] + hCB[5] + (hCB[6] * 8) + (hCB[7] * 8) + (hCB[8] * 2) + (hCB[9] * 7) + (hCB[10] * 8);
+var vHLB = (hLB[1] * 2) + (hLB[2] * 3) + (hLB[3] * 6) + (hLB[4] * 3) + (hLB[5] * 3) + (hLB[6] * 2) + (hLB[7] * 4) + (hLB[8] * 7) + (hLB[9] * 6) + (hLB[10] * 4);
+var vHRB = (hRB[1] * 2) + (hRB[2] * 2) + (hRB[3] * 5) + (hRB[4] * 2) + (hRB[5] * 2) + (hRB[6] * 5) + (hRB[7] * 6) + (hRB[8] * 6) + (hRB[9] * 5) + (hRB[10] * 5);
+var vHGK = hGK[11] * 40;
+
+var vAST;
+var vACF;
+var vALW;
+var vARW;
+var vAAM;
+var vADM;
+var vASW;
+var vACB;
+var vALB;
+var vARB;
+var vAGK;
+var vHST;
+var vHCF;
+var vHLW;
+var vHRW;
+var vHAM;
+var vHDM;
+var vHSW;
+var vHCB;
+var vHLB;
+var vHRB;
+var vHGK;
+
+var result = homeTeam + hGLS.length + " " + awayTeam + aGLS.length + "\n" + "Attendance: " + attendance + "\n" + homeTeam + "\n" + 
+" 1. " + hGK[0] + " " + vHGK + "\n" + 
+" 2. " + hRB[0] + " " + vHRB + "\n" + 
+" 3. " + hLB[0] + " " + vHLB + "\n" + 
+" 4. " + hCB[0] + " " + vHCB + "\n" +  
+" 5. " + hSW[0] + " " + vHSW + "\n" +
+" 6. " + hDM[0] + " " + vHDM + "\n" + 
+" 7. " + hRW[0] + " " + vHRW + "\n" + 
+" 8. " + hAM[0] + " " + vHAM + "\n" + 
+" 9. " + hST[0] + " " + vHST + "\n" +  
+"10. " + hCF[0] + " " + vHCF + "\n" +
+"11. " + hLW[0] + " " + vHLW + "\n" + awayTeam + "\n" +
+" 1. " + aGK[0] + " " + vAGK + "\n" + 
+" 2. " + aRB[0] + " " + vARB + "\n" + 
+" 3. " + aLB[0] + " " + vALB + "\n" + 
+" 4. " + aCB[0] + " " + vACB + "\n" +  
+" 5. " + aSW[0] + " " + vASW + "\n" +
+" 6. " + aDM[0] + " " + vADM + "\n" + 
+" 7. " + aRW[0] + " " + vARW + "\n" +  
+" 8. " + aAM[0] + " " + vAAM + "\n" +
+" 9. " + aST[0] + " " + vAST + "\n" + 
+"10. " + aCF[0] + " " + vACF + "\n" + 
+"11. " + aLW[0] + " " + vALW;
+
+function ga() {
+    var element = document.getElementById("match");
+    element.value = result;  
+}
